@@ -1,0 +1,32 @@
+{
+  "generado_utc": "2026-11-21T18:16:13.509594+00:00",
+  "base_de_datos": "proy_airbnb_rio",
+  "tabla": "staging.listings",
+  "filas_sql": 48247,
+  "filas_dataframe": 48247,
+  "columnas": 90,
+  "columnas_no_text_en_bd": 0,
+  "id_ausentes": 0,
+  "id_unicos_no_vacios": 48247,
+  "filas_excedentes_por_id_repetido": 0,
+  "filas_con_id_repetido": 0,
+  "id_no_compuesto_solo_de_digitos": 0,
+  "filas_completamente_duplicadas": 0,
+  "referencia_importacion_anterior": {
+    "filas": 48247,
+    "columnas": 90
+  },
+  "precio_ausentes": 4100,
+  "precio_no_interpretables": 0,
+  "precio_cero_o_negativo": 0,
+  "precio_positivos_interpretables": 44147,
+  "comparacion_csv": {
+    "archivo_encontrado": true,
+    "registros_csv": 48247,
+    "columnas_csv": 90,
+    "filas_con_numero_de_campos_incorrecto": 0,
+    "mismos_encabezados_y_orden": true,
+    "mismo_numero_de_registros": true,
+    "mismos_ids_y_frecuencias": true
+  }
+}

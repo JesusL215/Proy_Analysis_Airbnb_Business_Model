@@ -1,0 +1,51 @@
+﻿id,neighbourhood_cleansed,room_type,property_type,accommodates,bedrooms,beds,bathrooms_derived,minimum_nights,maximum_nights,number_of_reviews,price
+695828287387937123,Copacabana,Entire home/apt,Entire rental unit,4.0,1.0,1.0,1.0,1.0,1125.0,0.0,587008.0
+30033272,Estácio,Entire home/apt,Entire rental unit,4.0,2.0,2.0,1.0,1.0,10.0,1.0,500120.0
+612328960110087884,Copacabana,Entire home/apt,Entire rental unit,10.0,1.0,8.0,1.0,1.0,1125.0,0.0,183338.0
+1020594041193205143,Itanhangá,Private room,Private room in rental unit,3.0,1.0,2.0,1.0,1.0,1125.0,0.0,160888.0
+1183192753413981844,Barra da Tijuca,Entire home/apt,Entire home,10.0,5.0,6.0,7.0,2.0,365.0,35.0,140250.0
+1765430048162852807,Centro,Entire home/apt,Entire home,4.0,1.0,1.0,1.0,1.0,365.0,0.0,132000.0
+612413603184031875,Copacabana,Entire home/apt,Entire rental unit,10.0,1.0,8.0,1.0,1.0,1100.0,0.0,116701.0
+1052324300244368019,Copacabana,Entire home/apt,Entire rental unit,6.0,2.0,3.0,1.5,6.0,15.0,2.0,100000.0
+695857334968550331,Copacabana,Entire home/apt,Entire rental unit,6.0,4.0,1.0,3.0,1.0,365.0,0.0,82624.0
+1031884804402365265,Copacabana,Entire home/apt,Entire rental unit,4.0,2.0,2.0,2.0,30.0,90.0,0.0,67346.18
+1566792480325767982,Gávea,Entire home/apt,Entire rental unit,6.0,3.0,3.0,3.0,3.0,90.0,0.0,61651.86
+1106515627142299068,Leblon,Entire home/apt,Entire rental unit,4.0,1.0,2.0,1.0,1.0,365.0,0.0,58561.0
+1126967493931053898,Barra da Tijuca,Entire home/apt,Houseboat,16.0,,,4.0,1.0,365.0,0.0,58234.0
+46722479,Copacabana,Entire home/apt,Entire rental unit,4.0,1.0,1.0,1.0,1.0,365.0,0.0,54000.0
+1546671280739483509,Barra da Tijuca,Entire home/apt,Entire rental unit,4.0,2.0,2.0,2.0,2.0,365.0,5.0,51600.0
+1281978635662348538,Barra da Tijuca,Entire home/apt,Entire condo,6.0,3.0,4.0,2.0,2.0,180.0,5.0,50100.0
+1610163456961888958,Joá,Entire home/apt,Entire home,2.0,5.0,7.0,18.0,1.0,365.0,0.0,50000.0
+886859294299741941,Copacabana,Entire home/apt,Entire rental unit,6.0,1.0,4.0,1.0,1.0,365.0,1.0,46680.8
+54006235,Barra da Tijuca,Private room,Room in hotel,2.0,1.0,1.0,1.0,1.0,365.0,1.0,45000.0
+686067257517381321,Copacabana,Entire home/apt,Entire rental unit,16.0,1.0,6.0,1.0,1.0,1125.0,0.0,43763.0
+13079275,Leblon,Entire home/apt,Entire rental unit,6.0,3.0,3.0,3.0,10.0,30.0,0.0,41586.2
+1633447537465114838,Botafogo,Entire home/apt,Entire rental unit,4.0,1.0,1.0,1.0,50.0,365.0,0.0,41556.58
+826062131287941326,Leblon,Entire home/apt,Entire rental unit,6.0,3.0,4.0,4.5,2.0,365.0,124.0,41045.0
+12083803,Barra da Tijuca,Entire home/apt,Entire home,16.0,5.0,12.0,8.0,1.0,365.0,0.0,40000.0
+1583594125555421118,São Conrado,Entire home/apt,Entire home,16.0,1.0,2.0,1.0,1.0,365.0,0.0,38700.0
+557903977376721724,Copacabana,Entire home/apt,Entire rental unit,10.0,5.0,5.0,5.0,10.0,90.0,0.0,36575.6
+13616276,Barra da Tijuca,Entire home/apt,Entire home,10.0,5.0,6.0,8.0,10.0,1125.0,0.0,36291.8
+41749712,Ipanema,Entire home/apt,Entire rental unit,8.0,4.0,4.0,6.5,5.0,30.0,0.0,35835.2
+1442157992330783721,Copacabana,Entire home/apt,Entire rental unit,2.0,1.0,1.0,1.0,15.0,365.0,37.0,34680.53
+1593670832610282546,Copacabana,Entire home/apt,Entire rental unit,6.0,2.0,4.0,2.0,1.0,365.0,31.0,32680.0
+2479508,Tijuca,Entire home/apt,Entire rental unit,2.0,1.0,2.0,1.0,12.0,12.0,0.0,32482.0
+1167481680382682064,São Conrado,Entire home/apt,Entire condo,10.0,5.0,5.0,4.5,3.0,90.0,0.0,31608.33
+1191925394841289301,Joá,Entire home/apt,Entire condo,10.0,5.0,5.0,6.0,3.0,90.0,0.0,30597.67
+49856111,Leblon,Entire home/apt,Entire condo,4.0,2.0,2.0,3.0,10.0,90.0,0.0,30025.0
+1016533403668439741,Leme,Entire home/apt,Entire rental unit,12.0,4.0,5.0,5.0,1.0,365.0,1.0,30000.0
+1382722499819291366,Ipanema,Entire home/apt,Entire rental unit,4.0,2.0,2.0,1.0,1.0,365.0,0.0,30000.0
+54243843,Santa Teresa,Entire home/apt,Entire villa,14.0,7.0,7.0,8.0,3.0,90.0,0.0,29953.67
+1064744089684134917,Leblon,Entire home/apt,Entire rental unit,4.0,2.0,2.0,2.5,1.0,90.0,43.0,29594.0
+48346850,Copacabana,Entire home/apt,Entire home,16.0,7.0,9.0,7.0,6.0,1125.0,2.0,28952.33
+1558182810275517106,Copacabana,Entire home/apt,Entire rental unit,12.0,5.0,9.0,4.5,7.0,365.0,1.0,27367.22
+1123891762827377482,Copacabana,Entire home/apt,Entire rental unit,16.0,10.0,11.0,11.5,3.0,90.0,1.0,27348.75
+1363679153931457978,Copacabana,Entire home/apt,Entire rental unit,6.0,3.0,3.0,2.0,1.0,365.0,0.0,27000.0
+1607423791694680406,Barra da Tijuca,Entire home/apt,Entire rental unit,6.0,3.0,3.0,2.0,2.0,1125.0,0.0,26961.5
+1477641109744080072,São Conrado,Entire home/apt,Entire home,12.0,5.0,7.0,6.5,1.0,365.0,0.0,26725.0
+813836483260839039,Joá,Entire home/apt,Entire villa,10.0,5.0,5.0,4.5,3.0,90.0,0.0,26475.0
+1497972018360734179,São Conrado,Entire home/apt,Entire villa,10.0,5.0,6.0,6.0,3.0,90.0,0.0,26302.0
+1610223273415709699,São Conrado,Entire home/apt,Entire home,8.0,4.0,4.0,4.0,3.0,90.0,0.0,26185.0
+1193395335987408579,Joá,Entire home/apt,Entire condo,10.0,5.0,5.0,8.0,3.0,90.0,0.0,25511.67
+22391123,Ipanema,Entire home/apt,Room in aparthotel,6.0,2.0,3.0,2.0,1.0,1125.0,0.0,25000.0
+1253706984497078732,Copacabana,Entire home/apt,Entire rental unit,8.0,4.0,5.0,6.0,1.0,7.0,0.0,25000.0

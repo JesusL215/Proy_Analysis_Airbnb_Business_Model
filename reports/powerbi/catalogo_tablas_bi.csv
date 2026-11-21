@@ -1,0 +1,11 @@
+﻿tabla,filas,columnas,clave_primaria
+dim_barrio,156,2,barrio_key
+dim_tipo_alojamiento,4,3,tipo_alojamiento_key
+dim_tipo_propiedad,80,2,tipo_propiedad_key
+dim_capacidad,5,3,capacidad_key
+dim_anfitrion,26869,2,anfitrion_key
+dim_fecha,365,7,fecha_key
+dim_corte,1,5,corte_id
+fact_oferta,48247,36,"corte_id, anuncio_id"
+metricas_modelo,7,9,metrica_id
+importancia_variables,12,5,variable

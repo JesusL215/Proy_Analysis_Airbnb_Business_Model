@@ -1,0 +1,47 @@
+// Crear cada medida por separado en Power BI. Los porcentajes devuelven fracciones.
+Anuncios = COUNTROWS(fact_oferta)
+
+Anfitriones = DISTINCTCOUNT(fact_oferta[anfitrion_key])
+
+Anuncios con precio = CALCULATE([Anuncios], fact_oferta[precio_publicado] > 0)
+
+Cobertura de precio = DIVIDE([Anuncios con precio], [Anuncios])
+
+Anuncios sin precio = CALCULATE([Anuncios], fact_oferta[sin_precio] = TRUE())
+
+Mediana precio publicado = CALCULATE(MEDIAN(fact_oferta[precio_publicado]), fact_oferta[precio_publicado] > 0)
+
+Promedio precio publicado = CALCULATE(AVERAGE(fact_oferta[precio_publicado]), fact_oferta[precio_publicado] > 0)
+
+Mediana precio estimado = MEDIAN(fact_oferta[precio_estimado])
+
+Anuncios evaluados prueba = COUNT(fact_oferta[error_absoluto_prueba])
+
+MAE prueba BRL = AVERAGE(fact_oferta[error_absoluto_prueba])
+
+RMSE prueba BRL = SQRT(AVERAGE(fact_oferta[error_cuadratico_prueba]))
+
+Error mediano prueba BRL = MEDIAN(fact_oferta[error_absoluto_prueba])
+
+MAE referencia prueba BRL = AVERAGE(fact_oferta[error_referencia_prueba])
+
+Mejora MAE vs referencia = DIVIDE([MAE referencia prueba BRL] - [MAE prueba BRL], [MAE referencia prueba BRL])
+
+R2 prueba =
+VAR Casos = FILTER(fact_oferta, NOT ISBLANK(fact_oferta[error_absoluto_prueba]))
+VAR MediaReal = AVERAGEX(Casos, fact_oferta[precio_publicado])
+VAR SSE = SUMX(Casos, fact_oferta[error_cuadratico_prueba])
+VAR SST = SUMX(Casos, POWER(fact_oferta[precio_publicado] - MediaReal, 2))
+RETURN IF(COUNTROWS(Casos) > 1 && SST > 0, 1 - DIVIDE(SSE, SST), BLANK())
+
+MAE prueba sensibilidad BRL = CALCULATE([MAE prueba BRL], fact_oferta[prueba_sensibilidad] = TRUE())
+
+Anuncios prueba sensibilidad = CALCULATE([Anuncios evaluados prueba], fact_oferta[prueba_sensibilidad] = TRUE())
+
+Anuncios con alerta capacidad = CALCULATE([Anuncios], fact_oferta[alerta_capacidad] = TRUE())
+
+Anuncios con alerta noches = CALCULATE([Anuncios], fact_oferta[alerta_noches] = TRUE())
+
+Anuncios con soporte bajo = CALCULATE([Anuncios], fact_oferta[soporte_bajo_segmento] = TRUE())
+
+Mediana desviacion al modelo = MEDIAN(fact_oferta[desviacion_relativa_modelo])

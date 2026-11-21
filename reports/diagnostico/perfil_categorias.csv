@@ -1,0 +1,242 @@
+﻿columna,valor,anuncios,porcentaje
+neighbourhood_group_cleansed,<AUSENTE>,48247,100.0
+neighbourhood_cleansed,Copacabana,14938,30.96
+neighbourhood_cleansed,Ipanema,3887,8.06
+neighbourhood_cleansed,Barra da Tijuca,3709,7.69
+neighbourhood_cleansed,Centro,3282,6.8
+neighbourhood_cleansed,Recreio dos Bandeirantes,2511,5.2
+neighbourhood_cleansed,Jacarepaguá,2081,4.31
+neighbourhood_cleansed,Botafogo,2051,4.25
+neighbourhood_cleansed,Leblon,1931,4.0
+neighbourhood_cleansed,Santa Teresa,1660,3.44
+neighbourhood_cleansed,Flamengo,1005,2.08
+neighbourhood_cleansed,Camorim,991,2.05
+neighbourhood_cleansed,Leme,885,1.83
+neighbourhood_cleansed,São Conrado,586,1.21
+neighbourhood_cleansed,Laranjeiras,572,1.19
+neighbourhood_cleansed,Santo Cristo,539,1.12
+neighbourhood_cleansed,Vidigal,529,1.1
+neighbourhood_cleansed,Glória,428,0.89
+neighbourhood_cleansed,Catete,426,0.88
+neighbourhood_cleansed,Tijuca,423,0.88
+neighbourhood_cleansed,Lagoa,272,0.56
+neighbourhood_cleansed,Campo Grande,246,0.51
+neighbourhood_cleansed,Gávea,234,0.49
+neighbourhood_cleansed,Barra de Guaratiba,223,0.46
+neighbourhood_cleansed,Jardim Botânico,219,0.45
+neighbourhood_cleansed,Itanhangá,215,0.45
+neighbourhood_cleansed,Humaitá,202,0.42
+neighbourhood_cleansed,Guaratiba,192,0.4
+neighbourhood_cleansed,São Cristóvão,180,0.37
+neighbourhood_cleansed,Vargem Pequena,178,0.37
+neighbourhood_cleansed,Joá,175,0.36
+neighbourhood_cleansed,Urca,173,0.36
+neighbourhood_cleansed,Vargem Grande,167,0.35
+neighbourhood_cleansed,Vila Isabel,158,0.33
+neighbourhood_cleansed,Taquara,156,0.32
+neighbourhood_cleansed,Freguesia (Jacarepaguá),141,0.29
+neighbourhood_cleansed,Rio Comprido,128,0.27
+neighbourhood_cleansed,Maracanã,123,0.25
+neighbourhood_cleansed,Curicica,107,0.22
+neighbourhood_cleansed,Rocinha,104,0.22
+neighbourhood_cleansed,Praça da Bandeira,89,0.18
+neighbourhood_cleansed,Estácio,84,0.17
+neighbourhood_cleansed,Cosme Velho,78,0.16
+neighbourhood_cleansed,Grajaú,75,0.16
+neighbourhood_cleansed,Engenho de Dentro,70,0.15
+neighbourhood_cleansed,Paquetá,70,0.15
+neighbourhood_cleansed,Jardim Guanabara,68,0.14
+neighbourhood_cleansed,Santa Cruz,62,0.13
+neighbourhood_cleansed,Anil,60,0.12
+neighbourhood_cleansed,Méier,57,0.12
+neighbourhood_cleansed,Pechincha,56,0.12
+neighbourhood_cleansed,Saúde,55,0.11
+neighbourhood_cleansed,Andaraí,50,0.1
+neighbourhood_cleansed,Alto da Boa Vista,48,0.1
+neighbourhood_cleansed,Engenho Novo,48,0.1
+neighbourhood_cleansed,Gamboa,47,0.1
+neighbourhood_cleansed,Portuguesa,43,0.09
+neighbourhood_cleansed,Encantado,41,0.08
+neighbourhood_cleansed,Irajá,40,0.08
+neighbourhood_cleansed,Gardênia Azul,38,0.08
+neighbourhood_cleansed,Cidade Nova,38,0.08
+neighbourhood_cleansed,Vila Valqueire,33,0.07
+neighbourhood_cleansed,Cachambi,32,0.07
+neighbourhood_cleansed,Marechal Hermes,30,0.06
+neighbourhood_cleansed,Todos os Santos,28,0.06
+neighbourhood_cleansed,Pavuna,28,0.06
+neighbourhood_cleansed,Praça Seca,24,0.05
+neighbourhood_cleansed,Brás de Pina,23,0.05
+neighbourhood_cleansed,Bonsucesso,23,0.05
+neighbourhood_cleansed,Realengo,22,0.05
+neighbourhood_cleansed,Tanque,22,0.05
+neighbourhood_cleansed,Penha,21,0.04
+neighbourhood_cleansed,Del Castilho,21,0.04
+neighbourhood_cleansed,Cosmos,21,0.04
+neighbourhood_cleansed,Vasco da Gama,19,0.04
+neighbourhood_cleansed,Olaria,19,0.04
+neighbourhood_cleansed,Bangu,18,0.04
+neighbourhood_cleansed,Piedade,18,0.04
+neighbourhood_cleansed,São Francisco Xavier,18,0.04
+neighbourhood_cleansed,Osvaldo Cruz,18,0.04
+neighbourhood_cleansed,Jardim Carioca,18,0.04
+neighbourhood_cleansed,Riachuelo,17,0.04
+neighbourhood_cleansed,Madureira,17,0.04
+neighbourhood_cleansed,Bento Ribeiro,16,0.03
+neighbourhood_cleansed,Catumbi,16,0.03
+neighbourhood_cleansed,Higienópolis,15,0.03
+neighbourhood_cleansed,Pedra de Guaratiba,15,0.03
+neighbourhood_cleansed,Sepetiba,15,0.03
+neighbourhood_cleansed,Inhoaíba,13,0.03
+neighbourhood_cleansed,Campinho,13,0.03
+neighbourhood_cleansed,Ramos,13,0.03
+neighbourhood_cleansed,Bancários,13,0.03
+neighbourhood_cleansed,Penha Circular,12,0.02
+neighbourhood_cleansed,Tauá,12,0.02
+neighbourhood_cleansed,Rocha Miranda,12,0.02
+neighbourhood_cleansed,Jardim Sulacap,12,0.02
+neighbourhood_cleansed,Vila da Penha,11,0.02
+neighbourhood_cleansed,Lins de Vasconcelos,11,0.02
+neighbourhood_cleansed,Inhaúma,11,0.02
+neighbourhood_cleansed,Sampaio,11,0.02
+neighbourhood_cleansed,Parque Anchieta,11,0.02
+neighbourhood_cleansed,Cidade de Deus,10,0.02
+neighbourhood_cleansed,Vigário Geral,10,0.02
+neighbourhood_cleansed,Benfica,10,0.02
+neighbourhood_cleansed,Rocha,10,0.02
+neighbourhood_cleansed,Santíssimo,9,0.02
+neighbourhood_cleansed,Abolição,9,0.02
+neighbourhood_cleansed,Água Santa,9,0.02
+neighbourhood_cleansed,Padre Miguel,9,0.02
+neighbourhood_cleansed,Cacuia,9,0.02
+neighbourhood_cleansed,Paciência,9,0.02
+neighbourhood_cleansed,Tomás Coelho,9,0.02
+neighbourhood_cleansed,Cavalcanti,8,0.02
+neighbourhood_cleansed,Vicente de Carvalho,8,0.02
+neighbourhood_cleansed,Senador Vasconcelos,8,0.02
+neighbourhood_cleansed,Grumari,8,0.02
+neighbourhood_cleansed,Coelho Neto,8,0.02
+neighbourhood_cleansed,Engenho da Rainha,8,0.02
+neighbourhood_cleansed,Pilares,7,0.01
+neighbourhood_cleansed,Engenheiro Leal,7,0.01
+neighbourhood_cleansed,Colégio,7,0.01
+neighbourhood_cleansed,Vaz Lobo,6,0.01
+neighbourhood_cleansed,Moneró,6,0.01
+neighbourhood_cleansed,Jacaré,6,0.01
+neighbourhood_cleansed,Vila Militar,6,0.01
+neighbourhood_cleansed,Mangueira,6,0.01
+neighbourhood_cleansed,Cocotá,4,0.01
+neighbourhood_cleansed,Cascadura,4,0.01
+neighbourhood_cleansed,Senador Camará,4,0.01
+neighbourhood_cleansed,Maria da Graça,4,0.01
+neighbourhood_cleansed,Barros Filho,4,0.01
+neighbourhood_cleansed,Pitangueiras,4,0.01
+neighbourhood_cleansed,Galeão,4,0.01
+neighbourhood_cleansed,Quintino Bocaiúva,3,0.01
+neighbourhood_cleansed,Ricardo de Albuquerque,3,0.01
+neighbourhood_cleansed,Anchieta,3,0.01
+neighbourhood_cleansed,Praia da Bandeira,3,0.01
+neighbourhood_cleansed,Zumbi,3,0.01
+neighbourhood_cleansed,Parada de Lucas,3,0.01
+neighbourhood_cleansed,Maré,3,0.01
+neighbourhood_cleansed,Cidade Universitária,3,0.01
+neighbourhood_cleansed,Caju,3,0.01
+neighbourhood_cleansed,Guadalupe,2,0.0
+neighbourhood_cleansed,Vila Kosmos,2,0.0
+neighbourhood_cleansed,Honório Gurgel,2,0.0
+neighbourhood_cleansed,Turiaçú,2,0.0
+neighbourhood_cleansed,Freguesia (Ilha),2,0.0
+neighbourhood_cleansed,Ribeira,2,0.0
+neighbourhood_cleansed,Magalhães Bastos,2,0.0
+neighbourhood_cleansed,Cordovil,2,0.0
+neighbourhood_cleansed,Parque Colúmbia,2,0.0
+neighbourhood_cleansed,Acari,1,0.0
+neighbourhood_cleansed,Jardim América,1,0.0
+neighbourhood_cleansed,Campo dos Afonsos,1,0.0
+neighbourhood_cleansed,Complexo do Alemão,1,0.0
+neighbourhood_cleansed,Manguinhos,1,0.0
+neighbourhood_cleansed,Vista Alegre,1,0.0
+room_type,Entire home/apt,39334,81.53
+room_type,Private room,8310,17.22
+room_type,Shared room,582,1.21
+room_type,Hotel room,21,0.04
+property_type,Entire rental unit,32862,68.11
+property_type,Private room in rental unit,4834,10.02
+property_type,Entire home,2336,4.84
+property_type,Entire condo,1767,3.66
+property_type,Private room in home,1516,3.14
+property_type,Entire loft,868,1.8
+property_type,Entire serviced apartment,695,1.44
+property_type,Room in hotel,563,1.17
+property_type,Private room in bed and breakfast,519,1.08
+property_type,Private room in condo,339,0.7
+property_type,Shared room in rental unit,287,0.59
+property_type,Room in aparthotel,172,0.36
+property_type,Private room in guesthouse,159,0.33
+property_type,Entire guesthouse,156,0.32
+property_type,Shared room in home,130,0.27
+property_type,Tiny home,116,0.24
+property_type,Shared room in guesthouse,100,0.21
+property_type,Entire villa,94,0.19
+property_type,Private room in guest suite,83,0.17
+property_type,Entire guest suite,61,0.13
+property_type,Private room in serviced apartment,57,0.12
+property_type,Entire cabin,49,0.1
+property_type,Private room in hostel,34,0.07
+property_type,Entire place,31,0.06
+property_type,Private room,29,0.06
+property_type,Entire cottage,29,0.06
+property_type,Private room in townhouse,27,0.06
+property_type,Private room in villa,27,0.06
+property_type,Shared room in hostel,24,0.05
+property_type,Room in boutique hotel,20,0.04
+property_type,Private room in casa particular,20,0.04
+property_type,Entire vacation home,19,0.04
+property_type,Entire townhouse,18,0.04
+property_type,Private room in loft,18,0.04
+property_type,Entire chalet,17,0.04
+property_type,Shared room in bed and breakfast,16,0.03
+property_type,Private room in earthen home,13,0.03
+property_type,Boat,11,0.02
+property_type,Shared room in hotel,9,0.02
+property_type,Farm stay,8,0.02
+property_type,Private room in nature lodge,8,0.02
+property_type,Shared room in condo,8,0.02
+property_type,Casa particular,7,0.01
+property_type,Private room in tiny home,7,0.01
+property_type,Earthen home,7,0.01
+property_type,Private room in tent,7,0.01
+property_type,Treehouse,5,0.01
+property_type,Entire bungalow,4,0.01
+property_type,Room in serviced apartment,4,0.01
+property_type,Private room in farm stay,4,0.01
+property_type,Private room in cottage,4,0.01
+property_type,Houseboat,4,0.01
+property_type,Room in hostel,3,0.01
+property_type,Dome,3,0.01
+property_type,Campsite,3,0.01
+property_type,Shipping container,3,0.01
+property_type,Private room in tower,3,0.01
+property_type,Private room in treehouse,2,0.0
+property_type,Ranch,2,0.0
+property_type,Private room in boat,2,0.0
+property_type,Camper/RV,2,0.0
+property_type,Shared room in earthen home,2,0.0
+property_type,Private room in resort,2,0.0
+property_type,Private room in cabin,2,0.0
+property_type,Private room in castle,1,0.0
+property_type,Private room in floor,1,0.0
+property_type,Private room in bungalow,1,0.0
+property_type,Shared room in guest suite,1,0.0
+property_type,Private room in chalet,1,0.0
+property_type,Private room in vacation home,1,0.0
+property_type,Shared room in farm stay,1,0.0
+property_type,Cave,1,0.0
+property_type,Private room in cave,1,0.0
+property_type,Shared room in dome,1,0.0
+property_type,Shared room in cottage,1,0.0
+property_type,Private room in camper/rv,1,0.0
+property_type,Castle,1,0.0
+property_type,Private room in barn,1,0.0
+property_type,Shared room in boutique hotel,1,0.0
+property_type,Shared room in villa,1,0.0

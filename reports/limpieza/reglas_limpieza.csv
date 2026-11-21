@@ -1,0 +1,11 @@
+﻿tema,regla
+conservacion,Conservar todos los IDs; no eliminar anuncios sin precio.
+identificadores,Normalizar espacios y almacenar IDs como TEXT.
+precio,Interpretar símbolo opcional y formato con punto decimal/coma de miles; conservar NULL.
+moneda,BRL por la definición de precio en moneda local del diccionario; sin conversión.
+numeros_fechas,Tipar datos; formato no reconocido a NULL y registro de incidencia.
+banos,Derivar solo formatos reconocidos; conservar bathrooms_text; desconocido permanece NULL.
+extremos,"No eliminar ni recortar precios, camas, dormitorios o noches por percentiles."
+imputacion,No imputar precios ni aprender estadísticas para ML en esta etapa.
+predictores,"Excluir price_quote_*, ingresos/ocupación estimados y flags derivados de price de los predictores."
+disponibilidad,Conservar días disponibles; no interpretarlos como ocupación observada.

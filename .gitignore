@@ -1,0 +1,16 @@
+# Ignorar entorno virtual
+.venv/
+__pycache__/
+
+# Ignorar los datasets crudos pesados
+data/raw/*.csv
+data/raw/*.gz
+data/raw/*.geojson
+
+# Ignorar modelos entrenados pesados y salidas intermedias grandes
+models/*.joblib
+reports/modelado/estimaciones_para_powerbi.csv
+reports/modelado/particiones_modelo.csv
+
+# Ignorar archivos temporales de Power BI o Jupyter
+.ipynb_checkpoints/

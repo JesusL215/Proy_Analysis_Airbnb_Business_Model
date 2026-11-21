@@ -1,0 +1,8 @@
+﻿control,valor
+anuncios,48247.0
+anuncios_con_precio,44147.0
+anuncios_sin_precio,4100.0
+anuncios_evaluados_prueba,9206.0
+MAE_prueba_BRL,594.0603346122906
+MAE_referencia_prueba_BRL,758.794134260265
+anuncios_sensibilidad,9098.0

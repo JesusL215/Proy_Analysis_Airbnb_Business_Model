@@ -1,0 +1,3 @@
+﻿modelo,anuncios,poblacion,MAE_BRL,RMSE_BRL,MedAE_BRL,R2
+RandomForest_log,9098,Hasta P99 de desarrollo; sensibilidad,297.94369122052984,671.9518776346202,126.0434087264041,0.3572985028583082
+Referencia_mediana,9098,Hasta P99 de desarrollo; sensibilidad,411.3646098043526,875.240160712692,187.0,-0.09040401597644365

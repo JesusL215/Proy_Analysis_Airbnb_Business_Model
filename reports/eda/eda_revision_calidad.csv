@@ -1,0 +1,14 @@
+﻿regla,anuncios,porcentaje_oferta
+dormitorios_mayores_que_capacidad,170,0.3523535142081373
+camas_mayores_que_capacidad,1360,2.8188281136650986
+dormitorios_negativos,0,0.0
+camas_negativas,0,0.0
+capacidad_ausente_o_menor_1,0,0.0
+noches_minimas_ausentes,281,0.5824196323087446
+noches_maximas_ausentes,281,0.5824196323087446
+noches_minimas_mayores_que_maximas,0,0.0
+noches_no_positivas,0,0.0
+noches_maximas_mayores_365,12327,25.549775115551228
+precio_por_encima_p99_global,442,0.916119136941157
+sin_valoracion_y_cero_resenas,9058,18.77422430410181
+sin_valoracion_y_con_resenas,0,0.0

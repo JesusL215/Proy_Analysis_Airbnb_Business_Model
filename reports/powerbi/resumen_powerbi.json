@@ -1,0 +1,103 @@
+{
+  "generado_utc": "2026-11-21T20:42:43.526128+00:00",
+  "esquema": "bi",
+  "modelo": "RandomForest_log",
+  "moneda": "BRL",
+  "grano": "Un anuncio por corte",
+  "corte_id": "20260922161726",
+  "tablas": [
+    {
+      "tabla": "dim_barrio",
+      "filas": 156,
+      "columnas": 2,
+      "clave_primaria": "barrio_key"
+    },
+    {
+      "tabla": "dim_tipo_alojamiento",
+      "filas": 4,
+      "columnas": 3,
+      "clave_primaria": "tipo_alojamiento_key"
+    },
+    {
+      "tabla": "dim_tipo_propiedad",
+      "filas": 80,
+      "columnas": 2,
+      "clave_primaria": "tipo_propiedad_key"
+    },
+    {
+      "tabla": "dim_capacidad",
+      "filas": 5,
+      "columnas": 3,
+      "clave_primaria": "capacidad_key"
+    },
+    {
+      "tabla": "dim_anfitrion",
+      "filas": 26869,
+      "columnas": 2,
+      "clave_primaria": "anfitrion_key"
+    },
+    {
+      "tabla": "dim_fecha",
+      "filas": 365,
+      "columnas": 7,
+      "clave_primaria": "fecha_key"
+    },
+    {
+      "tabla": "dim_corte",
+      "filas": 1,
+      "columnas": 5,
+      "clave_primaria": "corte_id"
+    },
+    {
+      "tabla": "fact_oferta",
+      "filas": 48247,
+      "columnas": 36,
+      "clave_primaria": "corte_id, anuncio_id"
+    },
+    {
+      "tabla": "metricas_modelo",
+      "filas": 7,
+      "columnas": 9,
+      "clave_primaria": "metrica_id"
+    },
+    {
+      "tabla": "importancia_variables",
+      "filas": 12,
+      "columnas": 5,
+      "clave_primaria": "variable"
+    }
+  ],
+  "validaciones": [
+    {
+      "control": "anuncios",
+      "valor": 48247.0
+    },
+    {
+      "control": "anuncios_con_precio",
+      "valor": 44147.0
+    },
+    {
+      "control": "anuncios_sin_precio",
+      "valor": 4100.0
+    },
+    {
+      "control": "anuncios_evaluados_prueba",
+      "valor": 9206.0
+    },
+    {
+      "control": "MAE_prueba_BRL",
+      "valor": 594.0603346122906
+    },
+    {
+      "control": "MAE_referencia_prueba_BRL",
+      "valor": 758.794134260265
+    },
+    {
+      "control": "anuncios_sensibilidad",
+      "valor": 9098.0
+    }
+  ],
+  "estado_carga": "completada",
+  "guia": "powerbi/GUIA_POWERBI.md",
+  "medidas": "powerbi/medidas_airbnb.dax"
+}

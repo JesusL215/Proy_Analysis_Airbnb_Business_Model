@@ -1,0 +1,69 @@
+{
+  "generado_utc": "2026-11-21T20:19:49.266900+00:00",
+  "origen": "clean.listings",
+  "moneda": "BRL",
+  "modelo_elegido": "RandomForest_log",
+  "criterio_seleccion": "Menor MAE en validación; grupos de anfitrión disjuntos",
+  "anuncios_totales": 48247,
+  "anuncios_supervisados": 44147,
+  "anuncios_sin_precio_supervisado": 4100,
+  "variables_numericas": [
+    "latitude",
+    "longitude",
+    "accommodates",
+    "bedrooms",
+    "beds",
+    "bathrooms_derived"
+  ],
+  "variables_categoricas": [
+    "neighbourhood_cleansed",
+    "room_type",
+    "property_type",
+    "bathroom_shared",
+    "host_is_superhost",
+    "host_identity_verified"
+  ],
+  "particiones": [
+    {
+      "particion": "entrenamiento",
+      "anuncios": 27834,
+      "grupos_anfitrion": 15820
+    },
+    {
+      "particion": "validacion",
+      "anuncios": 7107,
+      "grupos_anfitrion": 3956
+    },
+    {
+      "particion": "prueba",
+      "anuncios": 9206,
+      "grupos_anfitrion": 4945
+    }
+  ],
+  "anfitriones_compartidos_entre_particiones": 0,
+  "metricas_prueba_modelo": {
+    "MAE_BRL": 594.0603346122907,
+    "RMSE_BRL": 8757.652484834163,
+    "MedAE_BRL": 128.19617812236595,
+    "R2": 0.01513997762193553
+  },
+  "metricas_prueba_referencia": {
+    "MAE_BRL": 758.794134260265,
+    "RMSE_BRL": 8845.173240601589,
+    "MedAE_BRL": 190.0,
+    "R2": -0.004643040179301616
+  },
+  "mejora_MAE_vs_referencia_pct": 21.709946375451405,
+  "umbral_P99_desarrollo_BRL": 7289.731999999963,
+  "filas_prueba_sensibilidad": 9098,
+  "estimaciones_exportadas": 48247,
+  "suelo_prediccion_BRL": 0.01,
+  "extremos_eliminados_por_percentil": 0,
+  "filas_supervisadas_eliminadas_por_alertas_capacidad": 0,
+  "python": "3.11.9",
+  "scikit_learn": "1.9.1",
+  "pandas": "3.1.1",
+  "numpy": "2.4.6",
+  "joblib": "1.6.0",
+  "limitacion_evaluacion": "Mismo corte previamente explorado; no es validación temporal o externa"
+}
